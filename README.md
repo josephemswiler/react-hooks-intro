@@ -1,6 +1,6 @@
 ## Introduction to React Hooks
 
-The tutorial for this repo is forthcoming. <br />
+The tutorial for this repo is located on [DZone](https://dzone.com/articles/introduction-to-react-hooks). <br />
 To run this app, clone this repo and install dependencies using yarn or npm.
 
 ### With yarn
